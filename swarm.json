@@ -1,0 +1,5 @@
+{
+  "pattern": "[DONE]",
+  "worktrees": ["/tmp/test-worktree"],
+  "poll_interval_seconds": 5
+}
